@@ -1,8 +1,6 @@
-# Node.js & Passport Login
+# Video Streaming Website 
 
-This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
-
-### Version: 2.0.0
+A custom website to access recorded lectures
 
 ### Usage
 
@@ -17,7 +15,3 @@ $ npm run dev
 
 # Visit http://localhost:5000
 ```
-
-### MongoDB
-
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
